@@ -1,9 +1,9 @@
 # Cozi-Cafe
 Term end Project on Python Essentials through Vityarthi platform on the topic of a Cafe reception management.
 
-# Core Functionality
+# Core Functionality - 
 
-#1.Menu Management
+# Menu Management
 It uses dictionary(Menu) to store the menu which is further categorized by different cuisine (e.g., Indian, Chinese) with specific items, item numbers, and prices.
 
 #2.User Interactive Platform
