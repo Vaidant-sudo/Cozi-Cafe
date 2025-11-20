@@ -11,11 +11,11 @@ The (take_order) function guides the user through selecting categories, choosing
 
 # 3.Bill Calculation💰
 The (calculate_bill) function is used to calculate the total bill of the user by a set of rules:-
-*It calculates the subtotal.
-*It applies a 10% discount if the subtotal exceeds 3500.
-*It adds a 10% service tax to the total after the discount.
-*It applies 18% GST on the total after service tax.
-*It gives the final Total Bill
+It calculates the subtotal.
+It applies a 10% discount if the subtotal exceeds 3500.
+It adds a 10% service tax to the total after the discount.
+It applies 18% GST on the total after service tax.
+It gives the final Total Bill
 
 # 4.Reciept Generation🖨
 The (print_bill) function displays a detailed, formatted receipt showing the quantity, price, item totals, and a breakdown of the subtotal, discount, service charge, and GST leading to the final amount payable.
